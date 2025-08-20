@@ -1,7 +1,7 @@
 #  Hi there! I'm Victoria👋 
 
 I'm a programming student at UTN and currently teach programming and robotics in primary school.  
-I have training in AI, machine learning with Arduino, Python, C++ and OOP with TypeScript
+I have training in AI, machine learning with Arduino, Python, C++ and OOP with TypeScript.
 I'm passionate about technology and I'm looking for my first job in IT, where I can gain experience and keep learning every day.
 
 I'm still exploring which specific area I enjoy the most, so for now I'm focusing on learning more programming languages and improving the ones I already know.  
